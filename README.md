@@ -7,6 +7,7 @@ Olá, bem vindo a minha evolução no Santander Bootcamp Fullstack Dev 2022.
 - Boas-vindas ao Santander Bootcamp Fullstack
 - Introdução à Programação e Pensamento Computacional
 - Introdução ao Git e ao GitHub
+- Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
 
 #ContratoDeCompromisso
 
